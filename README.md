@@ -11,6 +11,7 @@
 | Quadro | RTX 4000 | SP5+U113, SP5+U117, SP6+U133 | Still supported | Tested and supported |
 | Quadro | RTX A4000 | SP5+U117, SP6+U133 | Still supported | Tested and supported |
 | Titan | RTX | SP5+U113, SP5+U117, SP6+U133 | Still supported | Supported |
+| Tesla | K10 | SP4 | SP4 | Deprecated |
 | Tesla | M40 | SP4, SP5+U113, SP5+U117, SP6+U133 | Still supported | Tested and supported |
 | Tesla | A2 | SP5+U117, SP6+U133 | Still supported | Supported |
 
